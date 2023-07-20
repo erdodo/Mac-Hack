@@ -13,6 +13,8 @@ sudo pmset -a hibernatemode 0
 sudo pmset -a disablesleep 1
 ```
 
+ Hiçbir şekilde uyku moduna geçmeyecek haberiniz olsun
+ 
 
 
 * Sorumluluk sizde 
